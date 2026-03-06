@@ -1,6 +1,5 @@
 About me:
 
-location: Russian Federation
 interests:
   - Python
   - Lua
