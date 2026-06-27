@@ -13,8 +13,8 @@
 ### 🧰 Мой стек и инструменты (Tech Stack)
 
 <p align="left">
-  <img src="https://wikimedia.org" height="45" alt="Kali Linux" style="margin-right: 15px;" />
-  <img src="https://wikimedia.org" height="45" alt="Python" style="margin-right: 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" height="45" alt="Kali Linux" style="margin-right: 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="45" alt="Python" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" height="45" alt="Nmap" style="margin-right: 15px;" />
   <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/image2-1505745.png" height="45" alt="Metasploit" />
 </p>
