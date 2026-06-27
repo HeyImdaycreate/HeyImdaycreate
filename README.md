@@ -8,13 +8,10 @@
 - ⚡ **Девиз:** "Если утилита не работает на моей OS, я просто перепишу её сам".
 
 ---
-
-### 🧰 Мой стек технологий (Tech Stack)
+##
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" />
-  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"
 </p>
 
 ---
