@@ -12,28 +12,15 @@
 ### 🧰 Мой стек технологий (Tech Stack)
 
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="CMake" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="Windows 11" />
-</p>
-
----
-
-### 📈 Статистика профиля (GitHub Stats)
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="180" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg?uselang=ru" alt="VS Code" />
 </p>
 
 ---
 
 ### 🎯 Мои проекты (Featured Projects)
 
-* 🟢 **[PMatrix](https://github.com)** — Легковесный и быстрый цифровой дождь в стиле Матрицы для CMD и PowerShell. Поддерживает аргументы командной строки (`-color`) и собран в автономный `.exe`. Поставьте звезду ⭐️, если вам понравилось!
+* 🟢 **[PMatrix](https://github.com/HeyImdaycreate/PMatrix)** — Легковесный и быстрый цифровой дождь в стиле Матрицы для CMD и PowerShell. Поддерживает аргументы командной строки (`-color`) и собран в автономный `.exe`. Поставьте звезду ⭐️, если вам понравилось!
 
 ---
 
