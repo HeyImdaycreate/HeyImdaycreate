@@ -11,7 +11,8 @@
 ##
 
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
 </p>
 
 ---
