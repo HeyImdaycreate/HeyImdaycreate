@@ -13,7 +13,7 @@
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg?uselang=ru" alt="VS Code" />
+  <img src="https://storage.ghost.io/c/1b/98/1b989060-5bd0-4bf9-82a4-5d8ceae01265/content/images/size/w2000/2023/07/vscode.png" alt="VS Code" />
 </p>
 
 ---
